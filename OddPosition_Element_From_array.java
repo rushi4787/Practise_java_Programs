@@ -5,7 +5,7 @@ public class OddPosition_Element_From_array {
 		
 	
 	
-	char [] arr={'a','b','d','f','s','s','f','f','d','h'};
+	char [] arr={'a','b','d','f','s','s','f','f','d','h',};
 	
 	for (int i=0;i<arr.length;i++)
 	{
